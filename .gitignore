@@ -1,0 +1,11 @@
+# MetaTrader / MQL5 build output
+*.ex5
+*.ex4
+*.log
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

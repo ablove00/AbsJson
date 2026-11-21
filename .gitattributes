@@ -1,0 +1,14 @@
+# MQL5 sources use CRLF line endings (UTF-8 with BOM), as saved by MetaEditor.
+*.mq5 text eol=crlf
+*.mqh text eol=crlf
+*.mq4 text eol=crlf
+
+# Documentation and metadata use LF.
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+.github/** text eol=lf
+
+# Binary build output (normally ignored).
+*.ex5 binary
+*.ex4 binary
